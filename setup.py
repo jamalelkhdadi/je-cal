@@ -16,8 +16,8 @@ classifiers = [
 ]
 
 setup(
-    name='je-cal',
-    version='0.1',
+    name='jecalculator',
+    version='0.3',
     description='This is a simple library that performs basic python arithmetic operations.',
     long_description=open('README.md').read() + '\n\n' +
     open('CHANGELOG.txt').read(),
