@@ -3,7 +3,7 @@ basic python arithmetic operations.
 
 ## Installation
 ```
-pip install je-cal
+pip install jecalculator
 
 ```
 
@@ -11,8 +11,8 @@ pip install je-cal
 A guide to using the add_numbers function is as follows
 
 ```
-import je-cal
-add_num = je-cal.add_numbers(3, 7) # where 3 and 7 are the number you want to add
+import jecalculator as je
+add_num = je.add_numbers(3, 7) # where 3 and 7 are the number you want to add
 print(add_num)
 
 ```
